@@ -34,12 +34,16 @@ The following Python libraries are required:
 - `python-dotenv`
 
 ### Setup Instructions
-1. Clone the repository: `git clone URL
-2. Install packages using : pip install -r requirements.txt
+1. Clone the repository:
+    ```bash
+    git clone <repository_url>
+    cd <repository_name>
+2. Install the required packages:
+    pip install -r requirements.txt
 
-### Set Up Environment Variables
-Create a .env file in the root directory and add your Groq API key:
- GROQ_API_KEY=your_groq_api_key
+3. Set Up Environment Variables: Create a .env file in the root directory and add your Groq API key:
+G   ROQ_API_KEY=your_groq_api_key
+
 
 ### Run the Application
 Run the application using: `streamlit run app.py`
