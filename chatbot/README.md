@@ -22,6 +22,14 @@ RAG (Retrieval-Augmented Generation) ChatBot is a conversational AI application 
 
 ---
 
+## Screenshot
+
+Here's a screenshot of the chatbot in action:
+
+![Chatbot Screenshot](images/chatbot.png)
+
+---
+
 ## Requirements
 
 ### Python Packages

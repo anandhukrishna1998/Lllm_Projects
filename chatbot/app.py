@@ -17,6 +17,7 @@ import os
 # Load environment variables
 load_dotenv()
 groq_api_key = os.environ['GROQ_API_KEY']
+print(groq_api_key)
 
 # Set up Streamlit UI configuration
 st.set_page_config(page_title="RAG ChatBot", layout="wide")
