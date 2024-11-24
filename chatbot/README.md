@@ -33,6 +33,15 @@ The following Python libraries are required:
 - `PyPDF2`
 - `python-dotenv`
 
-Install them using:
-```bash
-pip install streamlit langchain langchain_groq langchain_community PyPDF2 python-dotenv
+### Setup Instructions
+1. Clone the repository: `git clone URL
+2. Install packages using : pip install -r requirements.txt
+
+### Set Up Environment Variables
+Create a .env file in the root directory and add your Groq API key:
+ GROQ_API_KEY=your_groq_api_key
+
+### Run the Application
+Run the application using: `streamlit run app.py`
+
+This will start the chatbot application, which can be accessed in your browser at http://localhost:8501.
