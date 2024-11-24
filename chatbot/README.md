@@ -26,7 +26,7 @@ RAG (Retrieval-Augmented Generation) ChatBot is a conversational AI application 
 
 Here's a screenshot of the chatbot in action:
 
-![Chatbot Screenshot](images/chatbot.png)
+![Chatbot Screenshot](../images/chatbot.PNG)
 
 ---
 
